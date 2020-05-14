@@ -1,0 +1,77 @@
+Name Phone Nights RoomType Rooms AC/NONAC ExtraBed Bill
+ArshitJain 7412589632.0 1 Single 1 A/C 1 1234
+HonharJain 9874563210.0 1 Single 1 True 1 1900
+PriyaJain 741258963.0 1 Queen 1 True 1 4400
+PriyaJain 741258963.0 1 Triple 1 False 1 2400
+HonharJain 741258963.0 2 King 2 False 2 21600
+HiyaNamdeo 7456881255.0 1 Quadraple 2 True 2 6300
+HiyaNamdeo 7456881255.0 1 Double 1 True 1 2400
+  365 King 3 True 100 20257500
+  3 King 3 True 1 47700
+  3 King 1 True 1 17700
+  3 King 3 True 1 47700
+  3 King 3 True 1 50700
+  3 King 3 True 1 50700
+HonharJain 9876543210.0 1 King 1 True 11 9900
+HonharJain 9876543210.0 1 Queen 1 False 1 3900
+HonharJain 9876543210.0 1 Queen 1 False 1 3900
+  1 Triple 1 False 1 2400
+HonharJain 7412589632.0 1 King 1 False 1 5400
+HonharJain 9876543210.0 1 Triple 1 True 1 2900
+HonharJain 9876543210.0 1 Queen 1 False 1 3900
+HonharJain 9856321478.0 2 King 2 False 1 20800
+HonharJain 9874563210.0 1 Triple 1 True 1 2900
+PriyaJain 7412589630.0 5 Queen 5 False 5 97500
+PriyaJain 7412589630.0 2 King 2 True 1 22800
+PriyaJain 7412589630.0 3 Queen 2 True 1 25200
+PriyaJain 7412589630.0 1 Queen 2 False 0 7000
+HiyaNamdeo 7412589632.0 2 Queen 1 True 3 10400
+HonharJain 741258963.0 1 King 12 False 1 60400
+TigerShroff 7412589632.0 1 King 2 False 1 10400
+honharjain 987654321.0 6 Triple 4 True 0 60000
+priyajain 987654321.0 3 Single 4 True 1 19200
+priyajain 9876543210.0 2 Single 1 True 0 3000
+PriyaJain 741258963.0 2 Queen 2 True 1 16800
+HardParikh 7412589632.0 1 Single 1 False 1 1400
+PriyaJain 741258963.0 1 Queen 2 True 0 8000
+PriyaJain 7412589632.0 2 Queen 3 False 6 25800
+PriyaJain 9837366488.0 2 Queen 4 True 1 32800
+PriyaJain 9837366488.0 1 Double 4 False 1 6400
+PriyaJain 9837366488.0 1 Double 2 False 1 3400
+PriyaJain 9837366488.0 1 Quadraple 1 False 1 2900
+PriyaJain 9837366488.0 1 Single 1 False 1 1400
+PriyaJain 9837366488.0 2 Queen 2 False 2 15600
+PriyaJain 9837366488.0 2 Quadraple 2 True 1 12800
+PriyaJain 9837366488.0 1 Double 1 True 1 2400
+PriyaJain 9837366488.0 1 Triple 1 False 2 2800
+PriyaJain 9837366488.0 2 Single 2 True 2 7600
+PriyaJain 9837366488.0 2 Double 2 True 2 9600
+PriyaJain 9837366488.0 1 Single 2 False 3 3200
+PriyaJain 9837366488.0 2 Triple 1 False 3 6400
+HardParikh 7412589632.0 3 Queen 3 False 2 33900
+PriyaJain 9837366488.0 3 Single 44 False 3 135600
+PriyaJain 9837366488.0 1 Single 1 False 1 1400
+PriyaJain 9837366488.0 1 Single 1 False 1 1400
+PriyaJain 9837366488.0 1 Double 1 False 1 1900
+PriyaJain 9837366488.0 1 Double 45 False 1 67900
+PriyaJain 9837366488.0 1 Triple 49 False 1 98400
+PriyaJain 9837366488.0 1 Quadraple 50 False 1 125400
+PriyaJain 9837366488.0 1 Queen 47 False 1 164900
+PriyaJain 9837366488.0 1 King 46 False 1 230400
+HardParikh 7412589632.0 2 Single 2 False 2 5600
+PriyaJain 9837366488.0 2 Single 2 False 2 5600
+"Priya Jain" 7896541230.0 1 Single 1 False 1 1400
+PriyaJain 74125893.0 1 Single 1 False 1 1400
+PriyaJain 74125896.0 1 Single 1 True 1 1900
+HonharJain 987654321.0 24 Single 5 True 0 180000
+PriyaJain 741258963.0 1 Single 1 True 1 1900
+HonharJain 8475014425.0 1232132123 King 50 True 12365479 6094700393206591800
+HonharJain 8475014425.0 1 Quadraple 20 True 1 60400
+HonharJain 3265987456.0 6 King 5 True 8 184200
+HonaharJain 7412589.0 1 King 1 False 1 5400
+  1 King 1 False 1 5400
+PriyaJain 741259933.0 1 Queen 2 True 4 9600
+ArshitJain 7424905150.0 1 Single 50 False 1 50400
+ArshitJain 7424905150.0 2 King 2 True 3 24400
+ArshitJain 7424905150.0 1 Queen 3 False 1 10900
+ArshitJain 7424905150.0 2 Quadraple 2 True 3 14400
